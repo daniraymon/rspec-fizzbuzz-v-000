@@ -1,5 +1,5 @@
 def fizzbuzz(int)
   if int % 15 == 0
-    puts "FizzBuzz"
+    return "FizzBuzz"
   end
 end
